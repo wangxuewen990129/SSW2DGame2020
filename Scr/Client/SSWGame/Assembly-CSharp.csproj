@@ -668,6 +668,12 @@
     <Reference Include="UnityEditor.UI">
       <HintPath>F:/UnityWalk/SSWGame2020/Scr/Client/SSWGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
+    <Reference Include="Cinemachine">
+      <HintPath>F:/UnityWalk/SSWGame2020/Scr/Client/SSWGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+    </Reference>
+    <Reference Include="com.unity.cinemachine.editor">
+      <HintPath>F:/UnityWalk/SSWGame2020/Scr/Client/SSWGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Unity.2D.Animation.Samples.Dependency.csproj">
